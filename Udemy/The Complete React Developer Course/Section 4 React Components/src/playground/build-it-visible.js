@@ -1,5 +1,3 @@
-// React Components - Osama Zinhom
-
 class VisibilityToggle extends React.Component {
   constructor(props) {
     super(props);

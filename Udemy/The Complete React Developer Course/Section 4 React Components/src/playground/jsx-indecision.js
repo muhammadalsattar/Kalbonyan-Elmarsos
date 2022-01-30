@@ -1,4 +1,3 @@
-// React Components - Osama Zinhom
 console.log('App.js is running!');
 
 const app = {

@@ -1,4 +1,3 @@
-// React Components - Osama Zinhom
 class Person {
   constructor(name = 'Anonymous', age = 0) {
     this.name = name;
