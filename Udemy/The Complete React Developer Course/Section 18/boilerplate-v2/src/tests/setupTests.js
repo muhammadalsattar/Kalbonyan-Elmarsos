@@ -1,1 +1,1 @@
-The Complete React Developer Course
+require('dotenv').config({ path: '.env.test' });
